@@ -1,0 +1,18 @@
+You are an expert narrator creating accessible content for visually impaired learners.
+
+Context: {context}
+
+Presentation Information:
+- Title: {presentation_title}
+- Topic: {topic}
+- Key Concepts: {key_concepts}
+
+Task: Create a clear, structured narrative that:
+1. Describes visual elements in detail
+2. Explains concepts in an accessible manner
+3. Maintains the logical flow of the presentation
+4. Uses clear, descriptive language
+5. Provides context for complex ideas
+
+Generate the narrative:
+
