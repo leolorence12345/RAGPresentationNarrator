@@ -5,7 +5,7 @@
 An intelligent Retrieval-Augmented Generation (RAG) system that automatically generates contextual narratives from presentation documents, specifically designed to enhance accessibility for visually impaired learners.
 
 > 📄 **Accepted at TREO Talks 2024**  
-> This project was presented at TReO Talks 2024. See the [accepted paper](papers/TReO_Talks_2024.pdf) for details.
+> This project was presented at TREO Talks 2024. See the [accepted paper](papers/TReO_Talks_2024.pdf) for details.
 
 ## 🎯 Project Overview
 
@@ -259,5 +259,6 @@ For questions or support, please open an issue on GitHub.
 ---
 
 **Note**: This system is optimized for production use with real-time narrative generation capabilities, making it suitable for live educational deployments and accessibility applications.
+
 
 
