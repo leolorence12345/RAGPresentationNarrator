@@ -136,7 +136,7 @@ narrative = agent.create_narrative(
 - Vector store caching
 - Memory-efficient cache management
 
-## 📊 Performance Optimizations
+##  Performance Optimizations
 
 ### Caching Strategy
 
@@ -223,7 +223,7 @@ accessibility:
   include_descriptions: true
 ```
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
@@ -231,34 +231,35 @@ accessibility:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📝 License
+##  License
 
 [Specify your license here]
 
-## 📄 Publication
+##  Publication
 
 This work was accepted and presented at **TReO Talks 2024**.
 
 **Paper**: [Designing Real-Time Accessible Learning for Visually Impaired Students](papers/TReO_Talks_2024.pdf)
 
-## 👥 Authors
+##  Authors
 
 - Developed as part of accessibility and AI research initiatives
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - TReO Talks 2024 for accepting this work
 - LangChain community for RAG framework
 - FAISS team for efficient vector search
 - Accessibility advocates for guidance on inclusive design
 
-## 📧 Contact
+##  Contact
 
 For questions or support, please open an issue on GitHub.
 
 ---
 
 **Note**: This system is optimized for production use with real-time narrative generation capabilities, making it suitable for live educational deployments and accessibility applications.
+
 
 
 
