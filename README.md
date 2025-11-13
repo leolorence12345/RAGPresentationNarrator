@@ -4,14 +4,14 @@
 
 An intelligent Retrieval-Augmented Generation (RAG) system that automatically generates contextual narratives from presentation documents, specifically designed to enhance accessibility for visually impaired learners.
 
-> 📄 **Accepted at TREO Talks 2024**  
+>  **Accepted at TREO Talks 2024**  
 > This project was presented at TREO Talks 2024. See the [accepted paper](papers/TReO_Talks_2024.pdf) for details.
 
-## 🎯 Project Overview
+##  Project Overview
 
 This project implements a production-ready RAG pipeline using LangChain and FAISS to process 200+ presentation documents and generate real-time, contextual narratives. The system is optimized for live deployments with advanced caching mechanisms and memory optimization techniques.
 
-## ✨ Key Features
+##  Key Features
 
 - **RAG Pipeline**: LangChain-based retrieval system with FAISS vector store
 - **Contextual Generation**: Intelligent narrative creation from 200+ presentation documents
@@ -23,7 +23,7 @@ This project implements a production-ready RAG pipeline using LangChain and FAIS
   - 25% speed improvement for real-time deployments
 - **Live Deployment Ready**: Optimized for real-time system performance
 
-## 🏗️ Architecture
+##  Architecture
 
 ```
 RAG-Presentation-Narrator/
@@ -40,7 +40,7 @@ RAG-Presentation-Narrator/
 └── docs/                   # Documentation
 ```
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -71,7 +71,7 @@ pip install -r requirements.txt
 - **Redis**: Response caching (optional)
 - **NumPy/Pandas**: Data processing
 
-## 📋 Usage
+##  Usage
 
 ### Basic Pipeline Execution
 
@@ -152,7 +152,7 @@ narrative = agent.create_narrative(
   - Parallel processing where applicable
   - Memory-efficient data structures
 
-## 🎓 Use Case: Visually Impaired Learners
+##  Use Case: Visually Impaired Learners
 
 The system is specifically designed to:
 
@@ -162,7 +162,7 @@ The system is specifically designed to:
 4. **Support real-time queries** during learning sessions
 5. **Generate accessible content** following accessibility guidelines
 
-## 📁 Data Structure
+##  Data Structure
 
 ### Presentation Documents
 
@@ -180,7 +180,7 @@ data/
     └── presentations_metadata.json
 ```
 
-## 🧪 Testing
+##  Testing
 
 ```bash
 # Run all tests
@@ -191,14 +191,14 @@ pytest tests/test_rag_pipeline.py
 pytest tests/test_agents.py
 ```
 
-## 📈 Performance Metrics
+##  Performance Metrics
 
 - **Document Processing**: 200+ presentations indexed
 - **Query Response Time**: < 2 seconds (with cache)
 - **Cache Hit Rate**: ~70% for common queries
 - **Memory Usage**: Optimized for production deployment
 
-## 🔐 Configuration
+##  Configuration
 
 Create a `config.yaml` file:
 
@@ -259,6 +259,7 @@ For questions or support, please open an issue on GitHub.
 ---
 
 **Note**: This system is optimized for production use with real-time narrative generation capabilities, making it suitable for live educational deployments and accessibility applications.
+
 
 
 
