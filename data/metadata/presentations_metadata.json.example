@@ -1,0 +1,18 @@
+{
+  "presentations": [
+    {
+      "id": "example_001",
+      "title": "Example Presentation",
+      "file_path": "data/presentations/example_001.pdf",
+      "format": "pdf",
+      "topic": "General",
+      "key_concepts": [],
+      "slide_count": 0,
+      "processed": false,
+      "created_at": "2024-01-01T00:00:00Z"
+    }
+  ],
+  "total_count": 0,
+  "last_updated": "2024-01-01T00:00:00Z"
+}
+

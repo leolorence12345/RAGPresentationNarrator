@@ -1,0 +1,8 @@
+# This directory stores FAISS indices and model artifacts
+# Files are auto-generated when creating the vector store
+# 
+# Example files:
+# - faiss_index.index
+# - embeddings.pkl
+# - vector_store.pkl
+

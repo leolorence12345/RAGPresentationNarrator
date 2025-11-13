@@ -22,7 +22,9 @@ pip-delete-this-directory.txt
 # Project specific
 models/*.index
 models/*.pkl
-cache/*
+models/*.faiss
+cache/responses/*
+cache/*.json
 *.log
 data/processed/
 data/embeddings/
@@ -30,6 +32,7 @@ data/embeddings/
 # Environment variables
 .env
 .env.local
+config.yaml
 
 # Jupyter
 .ipynb_checkpoints
@@ -44,4 +47,3 @@ htmlcov/
 dist/
 build/
 *.egg-info/
-

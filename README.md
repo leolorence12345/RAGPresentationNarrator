@@ -1,6 +1,11 @@
-# RAG-Powered Presentation Narrator for Visually Impaired Learners
+# Designing Real-Time Accessible Learning for Visually Impaired Students
+
+**RAG-Powered Presentation Narrator for Visually Impaired Learners**
 
 An intelligent Retrieval-Augmented Generation (RAG) system that automatically generates contextual narratives from presentation documents, specifically designed to enhance accessibility for visually impaired learners.
+
+> 📄 **Accepted at TReO Talks 2024**  
+> This project was presented at TReO Talks 2024. See the [accepted paper](papers/TReO_Talks_2024.pdf) for details.
 
 ## 🎯 Project Overview
 
@@ -230,12 +235,19 @@ accessibility:
 
 [Specify your license here]
 
+## 📄 Publication
+
+This work was accepted and presented at **TReO Talks 2024**.
+
+**Paper**: [Designing Real-Time Accessible Learning for Visually Impaired Students](papers/TReO_Talks_2024.pdf)
+
 ## 👥 Authors
 
 - Developed as part of accessibility and AI research initiatives
 
 ## 🙏 Acknowledgments
 
+- TReO Talks 2024 for accepting this work
 - LangChain community for RAG framework
 - FAISS team for efficient vector search
 - Accessibility advocates for guidance on inclusive design

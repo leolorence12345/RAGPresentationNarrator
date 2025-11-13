@@ -1,0 +1,7 @@
+# This directory stores presentation documents and processed data
+# 
+# Structure:
+# - presentations/     # Place PDF, PPTX files here
+# - processed/         # Auto-generated processed chunks (gitignored)
+# - metadata/          # Presentation metadata JSON files
+

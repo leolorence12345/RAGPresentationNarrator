@@ -1,0 +1,6 @@
+# This directory stores cached LLM responses
+# Files are auto-generated and gitignored
+# 
+# Structure:
+# - responses/  # Cached response files
+
